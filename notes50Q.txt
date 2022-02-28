@@ -1,5 +1,5 @@
-print("1) What are comments?")
-Print("#Comments can be used to explain Python code, to make the code readable and to prevent execution when testing code.")
+(1) What are comments?")
+("#Comments can be used to explain Python code, to make the code readable and to prevent execution when testing code.")
 
 print("2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines.")
 Two ways to create a comment are by placing a pound-sign before the comment on a separate single line comment or by placing a pound-sign# after syntax code on the same line.")
