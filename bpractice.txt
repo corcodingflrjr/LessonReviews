@@ -1,0 +1,2 @@
+(1) What are comments?")
+("#Comments can be used to explain Python code, to make the code readable and to prevent execution when testing code.")
