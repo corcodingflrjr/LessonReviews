@@ -1,2 +1,6 @@
-(1) What are comments?")
-("#Comments can be used to explain Python code, to make the code readable and to prevent execution when testing code.")
+Q1) What are comments?
+A-Comments can be used to explain Python code, to make the code readable and to prevent execution when testing code.
+
+Q2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines.
+A-Two ways to create a comment are by placing a pound-sign before the comment on a separate single line comment or by placing a pound-sign# after syntax code on the same line.
+
